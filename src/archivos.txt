@@ -1,0 +1,4 @@
+npm init --yes : inicia el pacckage.json
+npm install express: framework nodejs
+node src/index.js: se puede el sevidor
+npm install nodemon: es un modelo que te ayuda a reiniciar el sevidor cada vez que se realiza un cambio
